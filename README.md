@@ -36,3 +36,7 @@ de sus parámetros.
 
   Por lo tanto, se hará uso de la técnica de cross validation, en particular el K-fold cross
 validation, para realizar una estimación de los parámetros de los métodos que resulte estadísticamente más robusta.
+
+BASE DE DATOS UTILIZADA 
+
+www.kaggle.com/c/digit-recognizer
